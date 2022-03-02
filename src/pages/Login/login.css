@@ -43,6 +43,7 @@
 
 .form {
   border-radius: 50px;
+  height: 45px;
   width: 100%;
   background-color: #e6e6e6;
   font-weight: lighter;
@@ -53,6 +54,12 @@
 }
 
 .btnSubmit {
+  height: 45px;
+  font-size: 15px;
   display: flex;
   justify-content: center;
+}
+
+.button:hover {
+  background-color: #267d9c;
 }
