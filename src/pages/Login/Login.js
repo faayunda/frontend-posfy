@@ -1,6 +1,5 @@
 import React from 'react';
 import { Container, Row, Col, Button, Form, Card } from 'react-bootstrap';
-import Hero from './../../assets/heroLogin.png';
 import './login.css';
 
 export const Login = () => {
@@ -25,7 +24,7 @@ export const Login = () => {
                             </Form.Group>
 
                             <Form.Group className='btnSubmit'>
-                                <Button className='button' variant="primary" type="submit">
+                                <Button className='buttonLogin' variant="primary" type="submit">
                                     Login
                                 </Button>
                             </Form.Group>

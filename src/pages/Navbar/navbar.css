@@ -1,0 +1,14 @@
+.nav-profile {
+  background-color: rgb(255, 255, 255);
+  color: black;
+  width: 100px;
+  margin-top: 10px;
+  border-radius: 50px;
+  margin-left: auto;
+  margin-right: 10px;
+}
+
+.userprofile:hover {
+  background-color: #3dbcec;
+  border-radius: 50px;
+}

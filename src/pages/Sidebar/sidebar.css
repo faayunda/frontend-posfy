@@ -1,0 +1,21 @@
+.sidebar {
+  background-color: rgb(255, 255, 255);
+  color: white;
+  height: 100%;
+  width: 16%;
+  position: fixed;
+  z-index: 5;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.textsidebar {
+  color: black;
+}
+
+.textsidebar:hover {
+  background-color: #aae8ff;
+  color: black;
+}
